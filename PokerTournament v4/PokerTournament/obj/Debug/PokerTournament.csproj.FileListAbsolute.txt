@@ -22,3 +22,10 @@ C:\Game AI Online\Projects\Project3\PokerTournament v4\PokerTournament\obj\Debug
 C:\Game AI Online\Projects\Project3\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.exe
 C:\Game AI Online\Projects\Project3\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.pdb
 C:\Game AI Online\Projects\Project3\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.csprojResolveAssemblyReference.cache
+D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.exe.config
+D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.exe
+D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.pdb
+D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.exe
+D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.pdb
+D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.csprojResolveAssemblyReference.cache
+D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2471 @@
+Starting round 1
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+R2D2 folded. Other player gets the pot of 30
+
+After round 1, player status: 
+ Name: C3PO Dealer: True Money: 1010
+ Name: R2D2 Dealer: False Money: 990
+ 
+Starting round 2
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+R2D2 folded. Other player gets the pot of 30
+
+After round 2, player status: 
+ Name: C3PO Dealer: False Money: 1020
+ Name: R2D2 Dealer: True Money: 980
+ 
+Starting round 3
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Name: R2D2
+Hand Rank: 2 
+Two of Spades Three of Hearts Three of Clubs Nine of Hearts Ace of Diamonds 
+
+ 
+Name: C3PO
+Hand Rank: 2 
+Five of Diamonds Five of Spades Six of Diamonds Seven of Hearts Queen of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 40
+ 
+C3PO has a better hand and wins 40
+
+After round 3, player status: 
+ Name: C3PO Dealer: True Money: 1040
+ Name: R2D2 Dealer: False Money: 960
+ 
+Starting round 4
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Name: C3PO
+Hand Rank: 1 
+Three of Hearts Five of Diamonds Seven of Hearts Nine of Spades Ace of Clubs 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Two of Clubs Two of Diamonds Jack of Hearts King of Hearts Ace of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 30
+ 
+C3PO folded. Other player gets the pot of 30
+
+After round 4, player status: 
+ Name: C3PO Dealer: False Money: 1030
+ Name: R2D2 Dealer: True Money: 970
+ 
+Starting round 5
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Name: R2D2
+Hand Rank: 1 
+Six of Hearts Seven of Clubs Queen of Hearts King of Spades Ace of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 4 
+Three of Hearts Seven of Hearts King of Diamonds King of Clubs King of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 30
+ 
+R2D2 folded. Other player gets the pot of 30
+
+After round 5, player status: 
+ Name: C3PO Dealer: True Money: 1040
+ Name: R2D2 Dealer: False Money: 960
+ 
+Starting round 6
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+C3PO folded. Other player gets the pot of 30
+
+After round 6, player status: 
+ Name: C3PO Dealer: False Money: 1030
+ Name: R2D2 Dealer: True Money: 970
+ 
+Starting round 7
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+R2D2 folded. Other player gets the pot of 30
+
+After round 7, player status: 
+ Name: C3PO Dealer: True Money: 1040
+ Name: R2D2 Dealer: False Money: 960
+ 
+Starting round 8
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Name: C3PO
+Hand Rank: 2 
+Eight of Hearts Jack of Spades King of Hearts Ace of Hearts Ace of Spades 
+
+ 
+Name: R2D2
+Hand Rank: 3 
+Four of Clubs Four of Spades Ten of Hearts King of Diamonds King of Spades 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 60
+ 
+R2D2 has a better hand and wins 60
+
+After round 8, player status: 
+ Name: C3PO Dealer: False Money: 1010
+ Name: R2D2 Dealer: True Money: 990
+ 
+Starting round 9
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+C3PO folded. Other player gets the pot of 30
+
+After round 9, player status: 
+ Name: C3PO Dealer: True Money: 1000
+ Name: R2D2 Dealer: False Money: 1000
+ 
+Starting round 10
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+R2D2 folded. Other player gets the pot of 30
+
+After round 10, player status: 
+ Name: C3PO Dealer: False Money: 1010
+ Name: R2D2 Dealer: True Money: 990
+ 
+Starting round 11
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 2 
+Two of Clubs Eight of Hearts Nine of Hearts Nine of Diamonds King of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 2 
+Five of Clubs Nine of Clubs Ten of Diamonds Jack of Spades Jack of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 80
+ 
+C3PO has a better hand and wins 80
+
+After round 11, player status: 
+ Name: C3PO Dealer: True Money: 1050
+ Name: R2D2 Dealer: False Money: 950
+ 
+Starting round 12
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+R2D2 folded. Other player gets the pot of 30
+
+After round 12, player status: 
+ Name: C3PO Dealer: False Money: 1060
+ Name: R2D2 Dealer: True Money: 940
+ 
+Starting round 13
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+C3PO folded. Other player gets the pot of 30
+
+After round 13, player status: 
+ Name: C3PO Dealer: True Money: 1050
+ Name: R2D2 Dealer: False Money: 950
+ 
+Starting round 14
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Name: C3PO
+Hand Rank: 2 
+Six of Spades Jack of Clubs Jack of Diamonds King of Spades Ace of Spades 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Two of Diamonds Five of Diamonds Queen of Hearts Ace of Clubs Ace of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 40
+ 
+R2D2 has a better hand and wins 40
+
+After round 14, player status: 
+ Name: C3PO Dealer: False Money: 1030
+ Name: R2D2 Dealer: True Money: 970
+ 
+Starting round 15
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Name: R2D2
+Hand Rank: 2 
+Four of Diamonds Five of Spades Five of Clubs Queen of Diamonds King of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 2 
+Four of Hearts Five of Diamonds Eight of Clubs Queen of Hearts Queen of Clubs 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 40
+ 
+C3PO has a better hand and wins 40
+
+After round 15, player status: 
+ Name: C3PO Dealer: True Money: 1050
+ Name: R2D2 Dealer: False Money: 950
+ 
+Starting round 16
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Name: C3PO
+Hand Rank: 2 
+Two of Hearts Three of Spades Queen of Spades Queen of Clubs Ace of Diamonds 
+
+ 
+Name: R2D2
+Hand Rank: 1 
+Five of Hearts Eight of Hearts Nine of Spades Ten of Diamonds Jack of Diamonds 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 30
+ 
+R2D2 folded. Other player gets the pot of 30
+
+After round 16, player status: 
+ Name: C3PO Dealer: False Money: 1060
+ Name: R2D2 Dealer: True Money: 940
+ 
+Starting round 17
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+C3PO folded. Other player gets the pot of 30
+
+After round 17, player status: 
+ Name: C3PO Dealer: True Money: 1050
+ Name: R2D2 Dealer: False Money: 950
+ 
+Starting round 18
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 2 
+Two of Hearts Two of Clubs Six of Hearts Jack of Diamonds Queen of Diamonds 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Three of Hearts Four of Spades Four of Diamonds Nine of Spades King of Spades 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 80
+ 
+R2D2 has a better hand and wins 80
+
+After round 18, player status: 
+ Name: C3PO Dealer: False Money: 1010
+ Name: R2D2 Dealer: True Money: 990
+ 
+Starting round 19
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 3 
+Two of Hearts Two of Spades Jack of Clubs Jack of Hearts Ace of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 3 
+Seven of Diamonds Seven of Clubs Eight of Clubs Queen of Spades Queen of Clubs 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 100
+ 
+C3PO has a better hand and wins 100
+
+After round 19, player status: 
+ Name: C3PO Dealer: True Money: 1060
+ Name: R2D2 Dealer: False Money: 940
+ 
+Starting round 20
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 2 
+Two of Hearts Two of Spades Ten of Diamonds Jack of Hearts King of Clubs 
+
+ 
+Name: R2D2
+Hand Rank: 3 
+Two of Diamonds Two of Clubs Three of Diamonds King of Hearts King of Diamonds 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 20, player status: 
+ Name: C3PO Dealer: False Money: 1030
+ Name: R2D2 Dealer: True Money: 970
+ 
+Starting round 21
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Name: R2D2
+Hand Rank: 1 
+Five of Clubs Six of Clubs Seven of Clubs Nine of Diamonds Jack of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 1 
+Four of Diamonds Five of Diamonds Ten of Diamonds King of Diamonds Ace of Spades 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 30
+ 
+C3PO folded. Other player gets the pot of 30
+
+After round 21, player status: 
+ Name: C3PO Dealer: True Money: 1020
+ Name: R2D2 Dealer: False Money: 980
+ 
+Starting round 22
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+C3PO folded. Other player gets the pot of 30
+
+After round 22, player status: 
+ Name: C3PO Dealer: False Money: 1010
+ Name: R2D2 Dealer: True Money: 990
+ 
+Starting round 23
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+R2D2 folded. Other player gets the pot of 30
+
+After round 23, player status: 
+ Name: C3PO Dealer: True Money: 1020
+ Name: R2D2 Dealer: False Money: 980
+ 
+Starting round 24
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+R2D2 folded. Other player gets the pot of 30
+
+After round 24, player status: 
+ Name: C3PO Dealer: False Money: 1030
+ Name: R2D2 Dealer: True Money: 970
+ 
+Starting round 25
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Name: R2D2
+Hand Rank: 2 
+Three of Diamonds Jack of Hearts Queen of Clubs King of Diamonds King of Hearts 
+
+ 
+Name: C3PO
+Hand Rank: 1 
+Four of Hearts Seven of Clubs Nine of Clubs Ten of Clubs Ace of Clubs 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 30
+ 
+C3PO folded. Other player gets the pot of 30
+
+After round 25, player status: 
+ Name: C3PO Dealer: True Money: 1020
+ Name: R2D2 Dealer: False Money: 980
+ 
+Starting round 26
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+C3PO folded. Other player gets the pot of 50
+
+After round 26, player status: 
+ Name: C3PO Dealer: False Money: 1000
+ Name: R2D2 Dealer: True Money: 1000
+ 
+Starting round 27
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 27, player status: 
+ Name: C3PO Dealer: True Money: 1020
+ Name: R2D2 Dealer: False Money: 980
+ 
+Starting round 28
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 28, player status: 
+ Name: C3PO Dealer: False Money: 1040
+ Name: R2D2 Dealer: True Money: 960
+ 
+Starting round 29
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 29, player status: 
+ Name: C3PO Dealer: True Money: 1060
+ Name: R2D2 Dealer: False Money: 940
+ 
+Starting round 30
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 20
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 60
+ 
+R2D2 folded. Other player gets the pot of 60
+
+After round 30, player status: 
+ Name: C3PO Dealer: False Money: 1080
+ Name: R2D2 Dealer: True Money: 920
+ 
+Starting round 31
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+C3PO folded. Other player gets the pot of 50
+
+After round 31, player status: 
+ Name: C3PO Dealer: True Money: 1060
+ Name: R2D2 Dealer: False Money: 940
+ 
+Starting round 32
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 32, player status: 
+ Name: C3PO Dealer: False Money: 1080
+ Name: R2D2 Dealer: True Money: 920
+ 
+Starting round 33
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 33, player status: 
+ Name: C3PO Dealer: True Money: 1100
+ Name: R2D2 Dealer: False Money: 900
+ 
+Starting round 34
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 80
+ 
+Name: C3PO
+Hand Rank: 2 
+Four of Clubs Four of Spades Five of Diamonds Seven of Hearts Nine of Spades 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Five of Clubs Six of Hearts Six of Diamonds Eight of Diamonds Queen of Clubs 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 100
+ 
+R2D2 has a better hand and wins 100
+
+After round 34, player status: 
+ Name: C3PO Dealer: False Money: 1050
+ Name: R2D2 Dealer: True Money: 950
+ 
+Starting round 35
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 35, player status: 
+ Name: C3PO Dealer: True Money: 1070
+ Name: R2D2 Dealer: False Money: 930
+ 
+Starting round 36
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 20
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 60
+ 
+R2D2 folded. Other player gets the pot of 60
+
+After round 36, player status: 
+ Name: C3PO Dealer: False Money: 1090
+ Name: R2D2 Dealer: True Money: 910
+ 
+Starting round 37
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 40
+ 
+Name: R2D2
+Hand Rank: 1 
+Six of Diamonds Eight of Hearts Nine of Clubs Jack of Hearts Ace of Hearts 
+
+ 
+Name: C3PO
+Hand Rank: 3 
+Six of Spades Queen of Hearts Queen of Diamonds Ace of Spades Ace of Diamonds 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 37, player status: 
+ Name: C3PO Dealer: True Money: 1110
+ Name: R2D2 Dealer: False Money: 890
+ 
+Starting round 38
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 38, player status: 
+ Name: C3PO Dealer: False Money: 1130
+ Name: R2D2 Dealer: True Money: 870
+ 
+Starting round 39
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 80
+ 
+Name: R2D2
+Hand Rank: 3 
+Five of Diamonds Five of Clubs Queen of Spades Queen of Hearts King of Diamonds 
+
+ 
+Name: C3PO
+Hand Rank: 2 
+Five of Spades Five of Hearts Six of Clubs Eight of Clubs King of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 100
+ 
+R2D2 has a better hand and wins 100
+
+After round 39, player status: 
+ Name: C3PO Dealer: True Money: 1080
+ Name: R2D2 Dealer: False Money: 920
+ 
+Starting round 40
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 40, player status: 
+ Name: C3PO Dealer: False Money: 1100
+ Name: R2D2 Dealer: True Money: 900
+ 
+Starting round 41
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 41, player status: 
+ Name: C3PO Dealer: True Money: 1120
+ Name: R2D2 Dealer: False Money: 880
+ 
+Starting round 42
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 42, player status: 
+ Name: C3PO Dealer: False Money: 1140
+ Name: R2D2 Dealer: True Money: 860
+ 
+Starting round 43
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 43, player status: 
+ Name: C3PO Dealer: True Money: 1160
+ Name: R2D2 Dealer: False Money: 840
+ 
+Starting round 44
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 44, player status: 
+ Name: C3PO Dealer: False Money: 1180
+ Name: R2D2 Dealer: True Money: 820
+ 
+Starting round 45
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 40
+ 
+Name: R2D2
+Hand Rank: 1 
+Eight of Hearts Nine of Diamonds Ten of Clubs King of Spades Ace of Hearts 
+
+ 
+Name: C3PO
+Hand Rank: 6 
+Three of Hearts Five of Hearts Ten of Hearts Queen of Hearts King of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 45, player status: 
+ Name: C3PO Dealer: True Money: 1200
+ Name: R2D2 Dealer: False Money: 800
+ 
+Starting round 46
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+C3PO folded. Other player gets the pot of 50
+
+After round 46, player status: 
+ Name: C3PO Dealer: False Money: 1180
+ Name: R2D2 Dealer: True Money: 820
+ 
+Starting round 47
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 50
+ 
+R2D2 folded. Other player gets the pot of 50
+
+After round 47, player status: 
+ Name: C3PO Dealer: True Money: 1200
+ Name: R2D2 Dealer: False Money: 800
+ 
+Starting round 48
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 20
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: C3PO
+Hand Rank: 4 
+Three of Clubs Nine of Hearts Ace of Spades Ace of Hearts Ace of Diamonds 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Five of Hearts Six of Hearts Six of Spades Seven of Clubs Queen of Diamonds 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 30
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 130
+ 
+R2D2 folded. Other player gets the pot of 130
+
+After round 48, player status: 
+ Name: C3PO Dealer: False Money: 1250
+ Name: R2D2 Dealer: True Money: 750
+ 
+Starting round 49
+Ante for this round: 20
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 20
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: R2D2
+Hand Rank: 3 
+Three of Hearts Three of Diamonds Jack of Spades Queen of Clubs Queen of Hearts 
+
+ 
+Name: C3PO
+Hand Rank: 3 
+Four of Hearts Four of Spades Seven of Diamonds Seven of Hearts Ten of Diamonds 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+After Bet2, pot is 100
+ 
+R2D2 has a better hand and wins 100
+
+After round 49, player status: 
+ Name: C3PO Dealer: True Money: 1200
+ Name: R2D2 Dealer: False Money: 800
+ 
+Starting round 50
+Ante for this round: 20
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 40
+ 
+Name: C3PO
+Hand Rank: 1 
+Eight of Hearts Ten of Hearts Jack of Clubs Queen of Clubs Ace of Hearts 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Four of Clubs Four of Diamonds Queen of Spades King of Diamonds Ace of Clubs 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 50
+ 
+C3PO folded. Other player gets the pot of 50
+
+After round 50, player status: 
+ Name: C3PO Dealer: False Money: 1180
+ Name: R2D2 Dealer: True Money: 820
+ 
+Starting round 51
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 51, player status: 
+ Name: C3PO Dealer: True Money: 1150
+ Name: R2D2 Dealer: False Money: 850
+ 
+Starting round 52
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 1 
+Four of Hearts Seven of Hearts Ten of Spades Queen of Hearts Ace of Spades 
+
+ 
+Name: R2D2
+Hand Rank: 1 
+Five of Spades Eight of Hearts Jack of Clubs King of Spades Ace of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+After Bet2, pot is 60
+ 
+R2D2 has a better hand and wins 0
+
+After round 52, player status: 
+ Name: C3PO Dealer: False Money: 1120
+ Name: R2D2 Dealer: True Money: 880
+ 
+Starting round 53
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 1 
+Four of Spades Seven of Clubs Eight of Hearts Nine of Spades Queen of Hearts 
+
+ 
+Name: C3PO
+Hand Rank: 4 
+Jack of Spades Jack of Diamonds Jack of Clubs Queen of Diamonds Ace of Diamonds 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 53, player status: 
+ Name: C3PO Dealer: True Money: 1150
+ Name: R2D2 Dealer: False Money: 850
+ 
+Starting round 54
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 4 
+Four of Spades Seven of Clubs Ace of Clubs Ace of Spades Ace of Diamonds 
+
+ 
+Name: R2D2
+Hand Rank: 1 
+Two of Hearts Three of Spades Four of Hearts Nine of Hearts Ace of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 54, player status: 
+ Name: C3PO Dealer: False Money: 1120
+ Name: R2D2 Dealer: True Money: 880
+ 
+Starting round 55
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 55, player status: 
+ Name: C3PO Dealer: True Money: 1090
+ Name: R2D2 Dealer: False Money: 910
+ 
+Starting round 56
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 1 
+Seven of Diamonds Jack of Clubs Queen of Spades King of Spades Ace of Clubs 
+
+ 
+Name: R2D2
+Hand Rank: 3 
+Three of Diamonds Three of Clubs Five of Clubs Five of Diamonds Ten of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 56, player status: 
+ Name: C3PO Dealer: False Money: 1060
+ Name: R2D2 Dealer: True Money: 940
+ 
+Starting round 57
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 57, player status: 
+ Name: C3PO Dealer: True Money: 1030
+ Name: R2D2 Dealer: False Money: 970
+ 
+Starting round 58
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 58, player status: 
+ Name: C3PO Dealer: False Money: 1000
+ Name: R2D2 Dealer: True Money: 1000
+ 
+Starting round 59
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 59, player status: 
+ Name: C3PO Dealer: True Money: 970
+ Name: R2D2 Dealer: False Money: 1030
+ 
+Starting round 60
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: C3PO
+Hand Rank: 3 
+Two of Diamonds Nine of Clubs Nine of Hearts Ace of Clubs Ace of Spades 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Four of Clubs Five of Diamonds Ten of Diamonds Jack of Clubs Jack of Diamonds 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 120
+ 
+C3PO has a better hand and wins 120
+
+After round 60, player status: 
+ Name: C3PO Dealer: False Money: 1030
+ Name: R2D2 Dealer: True Money: 970
+ 
+Starting round 61
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 20
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 120
+ 
+Name: R2D2
+Hand Rank: 5 
+Six of Diamonds Seven of Spades Eight of Spades Nine of Clubs Ten of Diamonds 
+
+ 
+Name: C3PO
+Hand Rank: 2 
+Two of Clubs Eight of Hearts Eight of Diamonds Jack of Diamonds King of Spades 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 30
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 150
+ 
+C3PO folded. Other player gets the pot of 150
+
+After round 61, player status: 
+ Name: C3PO Dealer: True Money: 970
+ Name: R2D2 Dealer: False Money: 1030
+ 
+Starting round 62
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: C3PO
+Hand Rank: 2 
+Four of Spades Six of Hearts Nine of Clubs King of Clubs King of Hearts 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Eight of Clubs Nine of Spades King of Spades Ace of Spades Ace of Diamonds 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 120
+ 
+R2D2 has a better hand and wins 120
+
+After round 62, player status: 
+ Name: C3PO Dealer: False Money: 910
+ Name: R2D2 Dealer: True Money: 1090
+ 
+Starting round 63
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 63, player status: 
+ Name: C3PO Dealer: True Money: 880
+ Name: R2D2 Dealer: False Money: 1120
+ 
+Starting round 64
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 64, player status: 
+ Name: C3PO Dealer: False Money: 850
+ Name: R2D2 Dealer: True Money: 1150
+ 
+Starting round 65
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 2 
+Nine of Hearts Queen of Diamonds Queen of Spades King of Diamonds Ace of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 1 
+Three of Spades Five of Hearts Seven of Clubs Queen of Clubs King of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 65, player status: 
+ Name: C3PO Dealer: True Money: 820
+ Name: R2D2 Dealer: False Money: 1180
+ 
+Starting round 66
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 66, player status: 
+ Name: C3PO Dealer: False Money: 790
+ Name: R2D2 Dealer: True Money: 1210
+ 
+Starting round 67
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 67, player status: 
+ Name: C3PO Dealer: True Money: 820
+ Name: R2D2 Dealer: False Money: 1180
+ 
+Starting round 68
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 68, player status: 
+ Name: C3PO Dealer: False Money: 790
+ Name: R2D2 Dealer: True Money: 1210
+ 
+Starting round 69
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 69, player status: 
+ Name: C3PO Dealer: True Money: 820
+ Name: R2D2 Dealer: False Money: 1180
+ 
+Starting round 70
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: C3PO
+Hand Rank: 3 
+Two of Spades Two of Hearts Three of Clubs Ace of Clubs Ace of Diamonds 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Five of Diamonds Five of Clubs Nine of Clubs Jack of Diamonds King of Clubs 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 120
+ 
+C3PO has a better hand and wins 120
+
+After round 70, player status: 
+ Name: C3PO Dealer: False Money: 880
+ Name: R2D2 Dealer: True Money: 1120
+ 
+Starting round 71
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 1 
+Two of Diamonds Six of Clubs Eight of Clubs Queen of Hearts Ace of Hearts 
+
+ 
+Name: C3PO
+Hand Rank: 3 
+Ten of Clubs Ten of Hearts Queen of Diamonds Ace of Diamonds Ace of Clubs 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 71, player status: 
+ Name: C3PO Dealer: True Money: 910
+ Name: R2D2 Dealer: False Money: 1090
+ 
+Starting round 72
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 2 
+Four of Clubs Seven of Diamonds Ten of Spades Ten of Diamonds Jack of Clubs 
+
+ 
+Name: R2D2
+Hand Rank: 4 
+Nine of Clubs Queen of Diamonds King of Clubs King of Spades King of Diamonds 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: raise Amount: 30
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 140
+ 
+R2D2 has a better hand and wins 140
+
+After round 72, player status: 
+ Name: C3PO Dealer: False Money: 840
+ Name: R2D2 Dealer: True Money: 1160
+ 
+Starting round 73
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: R2D2
+Hand Rank: 2 
+Six of Diamonds Seven of Diamonds Eight of Diamonds Ten of Clubs Ten of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 2 
+Five of Spades Five of Hearts Eight of Hearts Nine of Spades Ten of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 120
+ 
+R2D2 has a better hand and wins 120
+
+After round 73, player status: 
+ Name: C3PO Dealer: True Money: 780
+ Name: R2D2 Dealer: False Money: 1220
+ 
+Starting round 74
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 74, player status: 
+ Name: C3PO Dealer: False Money: 810
+ Name: R2D2 Dealer: True Money: 1190
+ 
+Starting round 75
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 75, player status: 
+ Name: C3PO Dealer: True Money: 780
+ Name: R2D2 Dealer: False Money: 1220
+ 
+Starting round 76
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 76, player status: 
+ Name: C3PO Dealer: False Money: 750
+ Name: R2D2 Dealer: True Money: 1250
+ 
+Starting round 77
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 4 
+Five of Clubs Nine of Diamonds Ace of Diamonds Ace of Hearts Ace of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 1 
+Two of Diamonds Three of Diamonds Ten of Hearts Jack of Hearts King of Spades 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 77, player status: 
+ Name: C3PO Dealer: True Money: 720
+ Name: R2D2 Dealer: False Money: 1280
+ 
+Starting round 78
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 1 
+Two of Hearts Four of Spades Eight of Clubs Nine of Spades Queen of Clubs 
+
+ 
+Name: R2D2
+Hand Rank: 1 
+Two of Spades Eight of Hearts Jack of Spades Queen of Hearts King of Diamonds 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 78, player status: 
+ Name: C3PO Dealer: False Money: 690
+ Name: R2D2 Dealer: True Money: 1310
+ 
+Starting round 79
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 1 
+Six of Clubs Nine of Spades Ten of Clubs Queen of Diamonds Ace of Hearts 
+
+ 
+Name: C3PO
+Hand Rank: 1 
+Three of Diamonds Four of Hearts Jack of Spades Queen of Hearts Ace of Spades 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+After Bet2, pot is 60
+ 
+R2D2 has a better hand and wins 0
+
+After round 79, player status: 
+ Name: C3PO Dealer: True Money: 720
+ Name: R2D2 Dealer: False Money: 1280
+ 
+Starting round 80
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 2 
+Two of Hearts Two of Diamonds Four of Hearts Six of Hearts King of Clubs 
+
+ 
+Name: R2D2
+Hand Rank: 1 
+Five of Clubs Nine of Hearts Ten of Clubs Jack of Clubs Queen of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 80, player status: 
+ Name: C3PO Dealer: False Money: 750
+ Name: R2D2 Dealer: True Money: 1250
+ 
+Starting round 81
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 2 
+Four of Hearts Five of Spades Five of Diamonds Seven of Spades King of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 1 
+Three of Spades Eight of Clubs Nine of Hearts King of Clubs Ace of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 81, player status: 
+ Name: C3PO Dealer: True Money: 720
+ Name: R2D2 Dealer: False Money: 1280
+ 
+Starting round 82
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: C3PO
+Hand Rank: 2 
+Five of Clubs Seven of Clubs King of Diamonds Ace of Diamonds Ace of Hearts 
+
+ 
+Name: R2D2
+Hand Rank: 7 
+Three of Clubs Three of Diamonds Four of Spades Four of Diamonds Four of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 30
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 130
+ 
+C3PO folded. Other player gets the pot of 130
+
+After round 82, player status: 
+ Name: C3PO Dealer: False Money: 670
+ Name: R2D2 Dealer: True Money: 1330
+ 
+Starting round 83
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 2 
+Three of Diamonds Five of Hearts Five of Diamonds Jack of Spades Ace of Diamonds 
+
+ 
+Name: C3PO
+Hand Rank: 1 
+Two of Diamonds Seven of Clubs Ten of Hearts Queen of Hearts King of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 83, player status: 
+ Name: C3PO Dealer: True Money: 640
+ Name: R2D2 Dealer: False Money: 1360
+ 
+Starting round 84
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: C3PO
+Hand Rank: 2 
+Seven of Diamonds Seven of Spades Eight of Clubs Nine of Spades Queen of Hearts 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Four of Diamonds Nine of Diamonds Ten of Spades Ten of Clubs King of Diamonds 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 120
+ 
+R2D2 has a better hand and wins 120
+
+After round 84, player status: 
+ Name: C3PO Dealer: False Money: 580
+ Name: R2D2 Dealer: True Money: 1420
+ 
+Starting round 85
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 20
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 80
+ 
+C3PO folded. Other player gets the pot of 80
+
+After round 85, player status: 
+ Name: C3PO Dealer: True Money: 550
+ Name: R2D2 Dealer: False Money: 1450
+ 
+Starting round 86
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 86, player status: 
+ Name: C3PO Dealer: False Money: 580
+ Name: R2D2 Dealer: True Money: 1420
+ 
+Starting round 87
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 87, player status: 
+ Name: C3PO Dealer: True Money: 610
+ Name: R2D2 Dealer: False Money: 1390
+ 
+Starting round 88
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: C3PO
+Hand Rank: 2 
+Two of Spades Four of Spades Four of Hearts Five of Hearts Six of Diamonds 
+
+ 
+Name: R2D2
+Hand Rank: 3 
+Two of Clubs Two of Diamonds Jack of Diamonds Jack of Spades King of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 120
+ 
+R2D2 has a better hand and wins 120
+
+After round 88, player status: 
+ Name: C3PO Dealer: False Money: 550
+ Name: R2D2 Dealer: True Money: 1450
+ 
+Starting round 89
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: R2D2
+Hand Rank: 2 
+Six of Spades Nine of Hearts King of Spades King of Hearts Ace of Spades 
+
+ 
+Name: C3PO
+Hand Rank: 2 
+Two of Spades Two of Hearts Eight of Spades Nine of Diamonds Queen of Hearts 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 120
+ 
+R2D2 has a better hand and wins 120
+
+After round 89, player status: 
+ Name: C3PO Dealer: True Money: 490
+ Name: R2D2 Dealer: False Money: 1510
+ 
+Starting round 90
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 2 
+Six of Clubs Seven of Clubs Nine of Clubs Nine of Spades King of Hearts 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Three of Hearts Four of Spades Four of Diamonds Eight of Spades Ten of Diamonds 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 80
+ 
+C3PO has a better hand and wins 80
+
+After round 90, player status: 
+ Name: C3PO Dealer: False Money: 530
+ Name: R2D2 Dealer: True Money: 1470
+ 
+Starting round 91
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 20
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 80
+ 
+C3PO folded. Other player gets the pot of 80
+
+After round 91, player status: 
+ Name: C3PO Dealer: True Money: 500
+ Name: R2D2 Dealer: False Money: 1500
+ 
+Starting round 92
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 2 
+Two of Spades Four of Clubs Four of Hearts Five of Hearts Ten of Spades 
+
+ 
+Name: R2D2
+Hand Rank: 1 
+Four of Spades Six of Hearts Eight of Clubs Nine of Clubs Ace of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 92, player status: 
+ Name: C3PO Dealer: False Money: 530
+ Name: R2D2 Dealer: True Money: 1470
+ 
+Starting round 93
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: R2D2
+Hand Rank: 1 
+Two of Hearts Three of Hearts Six of Diamonds Eight of Hearts Jack of Clubs 
+
+ 
+Name: C3PO
+Hand Rank: 1 
+Five of Hearts Seven of Diamonds Eight of Diamonds King of Spades Ace of Clubs 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 93, player status: 
+ Name: C3PO Dealer: True Money: 500
+ Name: R2D2 Dealer: False Money: 1500
+ 
+Starting round 94
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: C3PO
+Hand Rank: 4 
+Four of Spades Seven of Diamonds Seven of Hearts Seven of Clubs King of Hearts 
+
+ 
+Name: R2D2
+Hand Rank: 2 
+Six of Clubs Eight of Clubs Eight of Hearts Ten of Spades Ace of Clubs 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 80
+ 
+C3PO has a better hand and wins 80
+
+After round 94, player status: 
+ Name: C3PO Dealer: False Money: 540
+ Name: R2D2 Dealer: True Money: 1460
+ 
+Starting round 95
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 95, player status: 
+ Name: C3PO Dealer: True Money: 510
+ Name: R2D2 Dealer: False Money: 1490
+ 
+Starting round 96
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+R2D2 folded. Other player gets the pot of 70
+
+After round 96, player status: 
+ Name: C3PO Dealer: False Money: 540
+ Name: R2D2 Dealer: True Money: 1460
+ 
+Starting round 97
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 100
+ 
+Name: R2D2
+Hand Rank: 2 
+Six of Clubs Seven of Diamonds Queen of Hearts King of Spades King of Diamonds 
+
+ 
+Name: C3PO
+Hand Rank: 3 
+Eight of Diamonds Eight of Clubs Nine of Clubs Nine of Hearts Jack of Diamonds 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: check Amount: 0
+ 
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 110
+ 
+R2D2 folded. Other player gets the pot of 110
+
+After round 97, player status: 
+ Name: C3PO Dealer: True Money: 590
+ Name: R2D2 Dealer: False Money: 1410
+ 
+Starting round 98
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 70
+ 
+C3PO folded. Other player gets the pot of 70
+
+After round 98, player status: 
+ Name: C3PO Dealer: False Money: 560
+ Name: R2D2 Dealer: True Money: 1440
+ 
+Starting round 99
+Ante for this round: 30
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 20
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 120
+ 
+Name: R2D2
+Hand Rank: 3 
+Three of Diamonds Three of Clubs Ten of Spades Jack of Clubs Jack of Diamonds 
+
+ 
+Name: C3PO
+Hand Rank: 2 
+Two of Diamonds Five of Spades Jack of Hearts Ace of Spades Ace of Clubs 
+
+ 
+Betting round 2:
+Player: R2D2 Action Phase: Bet2 Action Name: bet Amount: 10
+ 
+Player: C3PO Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 130
+ 
+C3PO folded. Other player gets the pot of 130
+
+After round 99, player status: 
+ Name: C3PO Dealer: True Money: 500
+ Name: R2D2 Dealer: False Money: 1500
+ 
+Starting round 100
+Ante for this round: 30
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 20
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 120
+ 
+Name: C3PO
+Hand Rank: 4 
+Six of Diamonds Jack of Diamonds Jack of Spades Jack of Hearts Ace of Spades 
+
+ 
+Name: R2D2
+Hand Rank: 3 
+Nine of Hearts Nine of Clubs Ten of Clubs Queen of Clubs Queen of Hearts 
+
+ 
+Betting round 2:
+Player: C3PO Action Phase: Bet2 Action Name: bet Amount: 30
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: fold Amount: 0
+ 
+After Bet2, pot is 150
+ 
+R2D2 folded. Other player gets the pot of 150
+
+After round 100, player status: 
+ Name: C3PO Dealer: False Money: 560
+ Name: R2D2 Dealer: True Money: 1440
+ 
+After 100 rounds:
+C3PO has 560 credits and R2D2 has 1440credits. R2D2 is the winner!

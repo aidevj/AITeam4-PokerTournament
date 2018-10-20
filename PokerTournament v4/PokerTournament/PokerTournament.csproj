@@ -49,6 +49,7 @@
     <Compile Include="Game.cs" />
     <Compile Include="Human.cs" />
     <Compile Include="Player.cs" />
+    <Compile Include="Player4.cs" />
     <Compile Include="PlayerAction.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
