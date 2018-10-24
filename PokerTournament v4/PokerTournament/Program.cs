@@ -32,8 +32,8 @@ namespace PokerTournament
             //Human h1 = new Human(1, "Sue", 1000);
 
 
-            Player4 h0 = new Player4(0, "C3PO", 1000);
-            Player4 h1 = new Player4(1, "R2D2", 1000);
+           Player5 h0 = new Player5(0, "C3PO", 10000);
+           Player4 h1 = new Player4(1, "R2D2", 10000);
 
             // create the Game
             Game myGame = new Game(h0, h1);

@@ -21,7 +21,7 @@ namespace PokerTournament
 
         // random number generator
         Random rgen = new Random();
-
+        
         // constructor
         public Deck()
         {

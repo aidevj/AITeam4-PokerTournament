@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "任务-Class1",
+      "appliesTo": "PokerTournament v4/PokerTournament/Class1.cs",
+      "type": "launch"
+    }
+  ]
+}

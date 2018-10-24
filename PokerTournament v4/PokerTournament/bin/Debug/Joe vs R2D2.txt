@@ -1,0 +1,87 @@
+Starting round 1
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Joe played a bad action of check and forfeits the hand
+Player: Joe Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+Joe folded. Other player gets the pot of 30
+
+After round 1, player status: 
+ Name: Joe Dealer: True Money: 990
+ Name: R2D2 Dealer: False Money: 1010
+ 
+Starting round 2
+Ante for this round: 10
+Betting round 1:
+Player: Joe Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Player: R2D2 Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: Joe Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 60
+ 
+Name: Joe
+Hand Rank: 2 
+Two of Hearts Three of Hearts Three of Clubs Seven of Spades Queen of Hearts 
+
+ 
+Name: R2D2
+Hand Rank: 3 
+Three of Spades Four of Hearts Four of Spades Ten of Spades Ten of Clubs 
+
+ 
+Betting round 2:
+Player: Joe Action Phase: Bet2 Action Name: bet Amount: 200
+ 
+Player: R2D2 Action Phase: Bet2 Action Name: raise Amount: 30
+ 
+Player: Joe Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 520
+ 
+R2D2 has a better hand and wins 520
+
+After round 2, player status: 
+ Name: Joe Dealer: False Money: 730
+ Name: R2D2 Dealer: True Money: 1270
+ 
+Starting round 3
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: bet Amount: 10
+ 
+Joe played a bad action of check and forfeits the hand
+Player: Joe Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 30
+ 
+Joe folded. Other player gets the pot of 30
+
+After round 3, player status: 
+ Name: Joe Dealer: True Money: 720
+ Name: R2D2 Dealer: False Money: 1280
+ 
+Starting round 4
+Ante for this round: 10
+Betting round 1:
+Joe played a bad action of call and forfeits the hand
+Player: Joe Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 20
+ 
+Joe folded. Other player gets the pot of 20
+
+After round 4, player status: 
+ Name: Joe Dealer: False Money: 710
+ Name: R2D2 Dealer: True Money: 1290
+ 
+Starting round 5
+Ante for this round: 10
+Betting round 1:
+Player: R2D2 Action Phase: Bet1 Action Name: check Amount: 0
+ 

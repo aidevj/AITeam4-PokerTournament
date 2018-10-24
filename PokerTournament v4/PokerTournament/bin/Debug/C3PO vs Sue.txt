@@ -1,0 +1,73 @@
+Starting round 1
+Ante for this round: 10
+Betting round 1:
+Player: Sue Action Phase: Bet1 Action Name: bet Amount: 200
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 220
+ 
+C3PO folded. Other player gets the pot of 220
+
+After round 1, player status: 
+ Name: C3PO Dealer: True Money: 990
+ Name: Sue Dealer: False Money: 1010
+ 
+Starting round 2
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: check Amount: 0
+ 
+Player: Sue Action Phase: Bet1 Action Name: bet Amount: 200
+ 
+Player: C3PO Action Phase: Bet1 Action Name: fold Amount: 0
+ 
+After Bet1, pot is 220
+ 
+C3PO folded. Other player gets the pot of 220
+
+After round 2, player status: 
+ Name: C3PO Dealer: False Money: 980
+ Name: Sue Dealer: True Money: 1020
+ 
+Starting round 3
+Ante for this round: 10
+Betting round 1:
+Player: Sue Action Phase: Bet1 Action Name: bet Amount: 200
+ 
+Player: C3PO Action Phase: Bet1 Action Name: raise Amount: 10
+ 
+Player: Sue Action Phase: Bet1 Action Name: bet Amount: 400
+ 
+Player: C3PO Action Phase: Bet1 Action Name: call Amount: 0
+ 
+After Bet1, pot is 1230
+ 
+Name: Sue
+Hand Rank: 3 
+Two of Clubs Queen of Hearts Queen of Diamonds King of Spades King of Diamonds 
+
+ 
+Name: C3PO
+Hand Rank: 3 
+Eight of Clubs Eight of Hearts Nine of Hearts Jack of Diamonds Jack of Clubs 
+
+ 
+Betting round 2:
+Player: Sue Action Phase: Bet2 Action Name: bet Amount: 300
+ 
+Player: C3PO Action Phase: Bet2 Action Name: call Amount: 0
+ 
+After Bet2, pot is 1830
+ 
+Sue has a better hand and wins 1830
+
+After round 3, player status: 
+ Name: C3PO Dealer: True Money: 60
+ Name: Sue Dealer: False Money: 1940
+ 
+Starting round 4
+Ante for this round: 10
+Betting round 1:
+Player: C3PO Action Phase: Bet1 Action Name: bet Amount: 10
+ 

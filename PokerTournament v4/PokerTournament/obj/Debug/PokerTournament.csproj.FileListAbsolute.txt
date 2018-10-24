@@ -29,3 +29,10 @@ D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament
 D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.pdb
 D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.csprojResolveAssemblyReference.cache
 D:\Documents\Capstone\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.csproj.CoreCompileInputs.cache
+E:\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.exe
+E:\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.pdb
+E:\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.exe.config
+E:\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.exe
+E:\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\bin\Debug\PokerTournament.pdb
+E:\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.csprojAssemblyReference.cache
+E:\AITeam4-PokerTournament\PokerTournament v4\PokerTournament\obj\Debug\PokerTournament.csproj.CoreCompileInputs.cache

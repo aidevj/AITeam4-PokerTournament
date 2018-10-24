@@ -47,7 +47,7 @@ namespace PokerTournament
 
 
             // loop
-            while(rounds <= 100 && p0.Money > 0 && p1.Money > 0)
+            while(rounds <= 1000 && p0.Money > 0 && p1.Money > 0)
             {
                 // announce start of round
                 ResultWriter("Starting round " + rounds);
