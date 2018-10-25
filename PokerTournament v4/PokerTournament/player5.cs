@@ -226,10 +226,49 @@ namespace PokerTournament
                         }
                         else
                         {
-                            deleteStr = "4";
-                            for (int i = 0; i < 4; i++)
+                            // add flush check here
+                            for (int i = 0; i < hand.Length; i++) // Throw out 2 cards that aren't in the 3 of a kind
                             {
-                                deleteIndexes.Add(i);
+                                if (handMap.ContainsKey(hand[i].Value)) handMap[hand[i].Value]++;
+                                else handMap.Add(hand[i].Value, 1);
+                            }
+                            int temp = getBestDrawForFlush(hand);
+                            if (temp != -1)
+                            {
+                                deleteStr = "1";
+                                deleteIndexes.Add(temp);
+                            }
+                            else {
+                                if (hand[1].Value == hand[2].Value - 2 &&
+                                    hand[2].Value == hand[3].Value - 3)
+                                {
+                                    // three in a straight already
+                                    if (hand[0].Value == hand[1].Value - 1)
+                                    {
+                                        deleteStr = "1";
+                                        deleteIndexes.Add(4); // first is also in straight
+                                    }
+                                    else if (hand[3].Value == hand[4].Value - 1)
+                                    {
+                                        deleteStr = "1";
+                                        deleteIndexes.Add(1); // fifth is also in straight
+                                    }
+                                    else
+                                    {
+                                        deleteStr = "4";
+                                        for (int i = 0; i < 4; i++)
+                                        {
+                                            deleteIndexes.Add(i);
+                                        }
+                                    }
+                                }
+                                else {
+                                    deleteStr = "4";
+                                    for (int i = 0; i < 4; i++)
+                                    {
+                                        deleteIndexes.Add(i);
+                                    }
+                                }
                             }
                         }
                         break;
@@ -415,11 +454,10 @@ namespace PokerTournament
             if (lastAction.ActionName.Equals("check"))
             {
                 if (bluffWeight >= 10) {
-                    betAmtText = "10"; //bluff determined,raise 
-                    return "2";
+                    return "2";//bluff determined,raise 
                 }
                 else if (bluffing) return "1";  // Bluff away
-                else if (rank <= 1) return "1"; // Not great, let's just check and compare
+                else if (rank <= 1) return "1"; // Not great,Just bluff
                 else
                 {
                     if (opponentDiscards == 0) return "4"; // If they have something good we don't want to lose any more money, just check
@@ -648,5 +686,45 @@ namespace PokerTournament
 
             else return "4"; // We should never get here, but check
         }
+        int getBestDrawForFlush(Card[] hand){
+            int club = 0;
+            int spade = 0;
+            int heart = 0;
+            int diamond = 0;
+            for (int i = 0; i < hand.Length; i++)
+            {
+                if (hand[i].Suit == "Hearts") heart++;
+                else if (hand[i].Suit == "Clubs") club++;
+                else if (hand[i].Suit == "Diamonds") diamond++;
+                else if (hand[i].Suit == "Spades") spade++;
+            }
+            string target = "";
+            if (heart == 4)
+            {
+                target = "Hearts";
+            }
+            else if (club == 4)
+            {
+                target = "Clubs";
+            }
+            else if (diamond == 4)
+            {
+                target = "Diamonds";
+            }
+            else if (spade == 4)
+            {
+                target = "Spades";
+            }
+            else {
+                return -1;
+            }
+            for (int i = 0; i < hand.Length; i++)
+            {
+                if (hand[i].Suit != target) return i;
+
+            }
+            return -1;
+        }
     }
 }
+
