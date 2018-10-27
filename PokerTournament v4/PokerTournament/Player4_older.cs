@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace PokerTournament
 {
-    class Player5 : Player
+    class Player4_older : Player
     {
-        public Player5(int idNum, string nm, int mny) : base(idNum, nm, mny)
+        public Player4_older(int idNum, string nm, int mny) : base(idNum, nm, mny)
         {
         }
 
@@ -18,7 +18,6 @@ namespace PokerTournament
         string betAmtText = "10";
 
         /* Variables for bluffing */
-        int bluffWeight = 0;
         int bluffCounter = 0;
         bool alreadyCountedBluff = false;
         bool bluffing = false;
@@ -226,49 +225,10 @@ namespace PokerTournament
                         }
                         else
                         {
-                            // add flush check here
-                            for (int i = 0; i < hand.Length; i++) // Throw out 2 cards that aren't in the 3 of a kind
+                            deleteStr = "4";
+                            for (int i = 0; i < 4; i++)
                             {
-                                if (handMap.ContainsKey(hand[i].Value)) handMap[hand[i].Value]++;
-                                else handMap.Add(hand[i].Value, 1);
-                            }
-                            int temp = getBestDrawForFlush(hand);
-                            if (temp != -1)
-                            {
-                                deleteStr = "1";
-                                deleteIndexes.Add(temp);
-                            }
-                            else {
-                                if (hand[1].Value == hand[2].Value - 2 &&
-                                    hand[2].Value == hand[3].Value - 3)
-                                {
-                                    // three in a straight already
-                                    if (hand[0].Value == hand[1].Value - 1)
-                                    {
-                                        deleteStr = "1";
-                                        deleteIndexes.Add(4); // first is also in straight
-                                    }
-                                    else if (hand[3].Value == hand[4].Value - 1)
-                                    {
-                                        deleteStr = "1";
-                                        deleteIndexes.Add(1); // fifth is also in straight
-                                    }
-                                    else
-                                    {
-                                        deleteStr = "4";
-                                        for (int i = 0; i < 4; i++)
-                                        {
-                                            deleteIndexes.Add(i);
-                                        }
-                                    }
-                                }
-                                else {
-                                    deleteStr = "4";
-                                    for (int i = 0; i < 4; i++)
-                                    {
-                                        deleteIndexes.Add(i);
-                                    }
-                                }
+                                deleteIndexes.Add(i);
                             }
                         }
                         break;
@@ -365,17 +325,13 @@ namespace PokerTournament
         private string Bet1(int rank, Card[] hand, PlayerAction lastAction) // Standard BET1
         {
             betAmtText = "10";
-            bluffWeight = 0; // reset bluffing check for each game
             if (lastAction.ActionName.Equals("check")) // If the opponent last checked
             {
-                bluffWeight = 0;  // they are serious, not possible for bluffing, or their bluffing is weak
                 if (rank <= 1) return "4"; // We should also check, out hand's not great
                 else return "1"; // Raise in if we have something decent
             }
             else if (lastAction.ActionName.Equals("bet")) // If opponent bet last
             {
-
-                bluffWeight += 5; // they have possibility for bluffing
                 if (rank <= 1) return "5"; // We have nothing, just fold
                 else // Always raise first, never call or we run the risk of losing more on average to the opponent reading us
                 {
@@ -387,11 +343,7 @@ namespace PokerTournament
                     else return "3";
                 }
             }
-            else if (lastAction.ActionName.Equals("raise"))
-            {
-                bluffWeight += 10; // they have high possibility for bluffing, but also risky
-                return "3"; // If they raised us we already bet so ignore rechecks
-            }
+            else if (lastAction.ActionName.Equals("raise")) return "3"; // If they raised us we already bet so ignore rechecks
             else if (lastAction.ActionName.Equals("call")) return "3"; // Should never get here
             else return "4"; // Should really never get here, checking implies we aren't confident
         }
@@ -401,10 +353,7 @@ namespace PokerTournament
             betAmtText = "10";
             if (bluffing) return "1"; // Bluff time
             else if (rank <= 1) return "4"; // Bad hand, check and move on
-            else if (lastAction.ActionName.Equals("stand pat")) {
-                bluffWeight += 10; // they are so dangerous, raise in first round, then stand pat. High posibility of bluff
-                return "4"; // Should probably fold, would like to be able to tell here if they are bluffing
-            } 
+            else if (lastAction.ActionName.Equals("stand pat")) return "4"; // Should probably fold, would like to be able to tell here if they are bluffing
             else // Find out their discard amount
             {
                 int cardsTossed = lastAction.Amount;
@@ -453,11 +402,8 @@ namespace PokerTournament
             betAmtText = "10";
             if (lastAction.ActionName.Equals("check"))
             {
-                if (bluffWeight >= 10) {
-                    return "2";//bluff determined,raise 
-                }
-                else if (bluffing) return "1";  // Bluff away
-                else if (rank <= 1) return "1"; // Not great,Just bluff
+                if (bluffing) return "1"; // Bluff away
+                else if (rank <= 1) return "4"; // Not great, let's just check and compare
                 else
                 {
                     if (opponentDiscards == 0) return "4"; // If they have something good we don't want to lose any more money, just check
@@ -493,7 +439,6 @@ namespace PokerTournament
             }
             else if (lastAction.ActionName.Equals("bet"))
             {
-                bluffWeight += 5; // add the strength again, they have large hand or strong bluff
                 if (bluffing) // If they called our bluff
                 {
                     disableBluffing = true;
@@ -502,13 +447,6 @@ namespace PokerTournament
                 else if (rank <= 1) return "5"; // We have nothing, don't keep going
                 if (opponentDiscards == 0) // They have a good hand
                 {
-                    if (bluffWeight < 20)
-                    {
-                        //less than this means they did not bet or raise in bet 1
-                        betAmtText = "10"; // to reach a bluffWeight more than 20 at this point ,player need raise or bet in first round, stand pat, bet second round.
-                        return "2";
-                    }
-                    // to this point they are less likely bluffing
                     if (rank == 5 || rank == 6) return "3"; // We call with straight or flush
                     else if (rank >= 7) // Full house or better we raise
                     {
@@ -523,12 +461,6 @@ namespace PokerTournament
                 }
                 else if (opponentDiscards == 1) // They had two pair or four of a kind
                 {
-                    if (bluffWeight < 10)
-                    {
-                        betAmtText = "10"; // to reach a bluffWeight more than 10 at this point ,player need raise or bet in first round, bet second round.
-                        return "2";
-                    }
-                    // pretty sure they do have something
                     if (rank == 3) return "3";
                     else if (rank >= 4)
                     {
@@ -544,7 +476,6 @@ namespace PokerTournament
                 }
                 else if (opponentDiscards == 2) // They had three of a kind
                 {
-                    // not analyze bluff here
                     if (rank == 4) return "3";
                     else if (rank >= 5)
                     {
@@ -560,7 +491,6 @@ namespace PokerTournament
                 }
                 else if (opponentDiscards == 3) // They had a pair
                 {
-                    // not analyze bluff here
                     if (rank == 2) return "3";
                     else if (rank >= 3)
                     {
@@ -592,7 +522,6 @@ namespace PokerTournament
             }
             else if (lastAction.ActionName.Equals("raise"))
             {
-                bluffWeight += 10;
                 if (bluffing) // They raised us on a stand pat bluff, don't let them exploit that
                 {
                     disableBluffing = true;
@@ -601,10 +530,6 @@ namespace PokerTournament
                 else if (rank <= 1) return "5";// F O L D
                 else if (opponentDiscards == 0) // They have a good hand
                 {
-                     //if (bluffWeight < 25) {
-                     //   betAmtText = "10"; // they checked the first round, bluff them.
-                     //   return "2";
-                     // }
                     if (rank == 5 || rank == 6) return "3"; // Straight or flush we call
                     else if (rank >= 7) // Full house or better we raise
                     {
@@ -619,10 +544,6 @@ namespace PokerTournament
                 }
                 else if (opponentDiscards == 1) // They had two pair or four of a kind
                 {
-                    // if (bluffWeight < 15) {
-                    //    betAmtText = "10"; // they checked the first round, bluff them.
-                    //    return "2";
-                    //  }
                     if (rank == 3) return "3";
                     else if (rank >= 4)
                     {
@@ -653,7 +574,6 @@ namespace PokerTournament
                 }
                 else if (opponentDiscards == 3) // They just had a pair
                 {
-                    // no bluff detection 
                     if (rank == 2 || rank == 3) return "3";
                     else if (rank >= 4)
                     {
@@ -667,7 +587,7 @@ namespace PokerTournament
                     }
                     else return "5";
                 }
-                else 
+                else // They had nothing
                 {
                     if (rank == 2) return "3";
                     else if (rank >= 3)
@@ -687,45 +607,5 @@ namespace PokerTournament
 
             else return "4"; // We should never get here, but check
         }
-        int getBestDrawForFlush(Card[] hand){
-            int club = 0;
-            int spade = 0;
-            int heart = 0;
-            int diamond = 0;
-            for (int i = 0; i < hand.Length; i++)
-            {
-                if (hand[i].Suit == "Hearts") heart++;
-                else if (hand[i].Suit == "Clubs") club++;
-                else if (hand[i].Suit == "Diamonds") diamond++;
-                else if (hand[i].Suit == "Spades") spade++;
-            }
-            string target = "";
-            if (heart == 4)
-            {
-                target = "Hearts";
-            }
-            else if (club == 4)
-            {
-                target = "Clubs";
-            }
-            else if (diamond == 4)
-            {
-                target = "Diamonds";
-            }
-            else if (spade == 4)
-            {
-                target = "Spades";
-            }
-            else {
-                return -1;
-            }
-            for (int i = 0; i < hand.Length; i++)
-            {
-                if (hand[i].Suit != target) return i;
-
-            }
-            return -1;
-        }
     }
 }
-
