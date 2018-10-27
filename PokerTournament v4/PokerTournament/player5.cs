@@ -504,6 +504,7 @@ namespace PokerTournament
                 {
                     if (bluffWeight < 20)
                     {
+                        //less than this means they did not bet or raise in bet 1
                         betAmtText = "10"; // to reach a bluffWeight more than 20 at this point ,player need raise or bet in first round, stand pat, bet second round.
                         return "2";
                     }
@@ -666,7 +667,7 @@ namespace PokerTournament
                     }
                     else return "5";
                 }
-                else // They had nothing
+                else 
                 {
                     if (rank == 2) return "3";
                     else if (rank >= 3)
